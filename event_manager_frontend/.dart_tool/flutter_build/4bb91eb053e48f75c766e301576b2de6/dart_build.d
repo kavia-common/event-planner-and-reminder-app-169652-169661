@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/event-planner-and-reminder-app-169652-169661/event_manager_frontend/.dart_tool/flutter_build/4bb91eb053e48f75c766e301576b2de6/dart_build_result.json: 
